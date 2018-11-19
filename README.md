@@ -37,3 +37,7 @@ reducir el tiempo de procesamiento de los algoritmos y la persistencia de este p
 ## Algoritmos Utilizados
 La expliación del por que se han elegido estos algoritmos está dentro de la implementación de cada uno de estos:
 Regresión, Agrupación, Desitional Tree
+
+## Nota
+se aconseja visitar el código en el siguiente orden
+Regresión, Agrupación, Desitional Tree
